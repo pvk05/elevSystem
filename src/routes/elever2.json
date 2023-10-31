@@ -1,0 +1,226 @@
+[
+    {
+        "navn": "Ola Nordmann",
+        "epost": "ola.nordmann@gmail.com",
+        "telefon": 12345678,
+        "fag1": "R2",
+        "fag2": "IT2",
+        "fag3": "Fysikk 2"
+    },
+    {
+        "navn": "Kari Hansen",
+        "epost": "kari.hansen@gmail.com",
+        "telefon": 23456789,
+        "fag1": "R2",
+        "fag2": "IT2",
+        "fag3": "Fysikk 2"
+    },
+    {
+        "navn": "Per Olsen",
+        "epost": "per.olsen@gmail.com",
+        "telefon": 34567890,
+        "fag1": "R2",
+        "fag2": "IT2",
+        "fag3": "Fysikk 2"
+    },
+    {
+        "navn": "Mette Pedersen",
+        "epost": "mette.pedersen@gmail.com",
+        "telefon": 45678901,
+        "fag1": "R2",
+        "fag2": "IT2",
+        "fag3": "Fysikk 2"
+    },
+    {
+        "navn": "Anders Johansen",
+        "epost": "anders.johansen@gmail.com",
+        "telefon": 56789012,
+        "fag1": "R2",
+        "fag2": "IT2",
+        "fag3": "Fysikk 2"
+    },
+    {
+        "navn": "Ingrid Svendsen",
+        "epost": "ingrid.svendsen@gmail.com",
+        "telefon": 67890123,
+        "fag1": "R2",
+        "fag2": "IT2",
+        "fag3": "Fysikk 2"
+    },
+    {
+        "navn": "Erik Kristiansen",
+        "epost": "erik.kristiansen@gmail.com",
+        "telefon": 78901234,
+        "fag1": "R2",
+        "fag2": "IT2",
+        "fag3": "Fysikk 2"
+    },
+    {
+        "navn": "Ida Eriksen",
+        "epost": "ida.eriksen@gmail.com",
+        "telefon": 89012345,
+        "fag1": "R2",
+        "fag2": "IT2",
+        "fag3": "Fysikk 2"
+    },
+    {
+        "navn": "Tomas Hagen",
+        "epost": "tomas.hagen@gmail.com",
+        "telefon": 90123456,
+        "fag1": "R2",
+        "fag2": "IT2",
+        "fag3": "Fysikk 2"
+    },
+    {
+        "navn": "Lise Nygård",
+        "epost": "lise.nygard@gmail.com",
+        "telefon": 12345678,
+        "fag1": "R2",
+        "fag2": "IT2",
+        "fag3": "Fysikk 2"
+    },
+    {
+        "navn": "Geir Madsen",
+        "epost": "geir.madsen@gmail.com",
+        "telefon": 23456789,
+        "fag1": "R2",
+        "fag2": "IT2",
+        "fag3": "Fysikk 2"
+    },
+    {
+        "navn": "Hanne Hansen",
+        "epost": "hanne.hansen@gmail.com",
+        "telefon": 34567890,
+        "fag1": "R2",
+        "fag2": "IT2",
+        "fag3": "Fysikk 2"
+    },
+    {
+        "navn": "Ole André Pedersen",
+        "epost": "ole.andre.pedersen@gmail.com",
+        "telefon": 45678901,
+        "fag1": "R2",
+        "fag2": "IT2",
+        "fag3": "Fysikk 2"
+    },
+    {
+        "navn": "Hilde Larsen",
+        "epost": "hilde.larsen@gmail.com",
+        "telefon": 56789012,
+        "fag1": "R2",
+        "fag2": "IT2",
+        "fag3": "Fysikk 2"
+    },
+    {
+        "navn": "Anders Olsen",
+        "epost": "anders.olsen@gmail.com",
+        "telefon": 67890123,
+        "fag1": "R2",
+        "fag2": "IT2",
+        "fag3": "Fysikk 2"
+    },
+    {
+        "navn": "Marte Bjørnson",
+        "epost": "marte.bjornson@gmail.com",
+        "telefon": 78901234,
+        "fag1": "R2",
+        "fag2": "IT2",
+        "fag3": "Fysikk 2"
+    },
+    {
+        "navn": "Knut Nilsen",
+        "epost": "knut.nilsen@gmail.com",
+        "telefon": 89012345,
+        "fag1": "R2",
+        "fag2": "IT2",
+        "fag3": "Fysikk 2"
+    },
+    {
+        "navn": "Sara Andersen",
+        "epost": "sara.andersen@gmail.com",
+        "telefon": 90123456,
+        "fag1": "R2",
+        "fag2": "IT2",
+        "fag3": "Fysikk 2"
+    },
+    {
+        "navn": "Petter Kristoffersen",
+        "epost": "petter.kristoffersen@gmail.com",
+        "telefon": 12345678,
+        "fag1": "R2",
+        "fag2": "IT2",
+        "fag3": "Fysikk 2"
+    },
+    {
+        "navn": "Line Iversen",
+        "epost": "line.iversen@gmail.com",
+        "telefon": 23456789,
+        "fag1": "R2",
+        "fag2": "IT2",
+        "fag3": "Fysikk 2"
+    },
+    {
+        "navn": "Bjørn Eide",
+        "epost": "bjorn.eide@gmail.com",
+        "telefon": 34567890,
+        "fag1": "R2",
+        "fag2": "IT2",
+        "fag3": "Fysikk 2"
+    },
+    {
+        "navn": "Tone Christensen",
+        "epost": "tone.christensen@gmail.com",
+        "telefon": 45678901,
+        "fag1": "R2",
+        "fag2": "IT2",
+        "fag3": "Fysikk 2"
+    },
+    {
+        "navn": "Andreas Thomassen",
+        "epost": "andreas.thomassen@gmail.com",
+        "telefon": 56789012,
+        "fag1": "R2",
+        "fag2": "IT2",
+        "fag3": "Fysikk 2"
+    },
+    {
+        "navn": "Kirsten Johnsen",
+        "epost": "kirsten.johnsen@gmail.com",
+        "telefon": 67890123,
+        "fag1": "R2",
+        "fag2": "IT2",
+        "fag3": "Fysikk 2"
+    },
+    {
+        "navn": "Marius Solberg",
+        "epost": "marius.solberg@gmail.com",
+        "telefon": 78901234,
+        "fag1": "R2",
+        "fag2": "IT2",
+        "fag3": "Fysikk 2"
+    },
+    {
+        "navn": "Elin Andersen",
+        "epost": "elin.andersen@gmail.com",
+        "telefon": 89012345,
+        "fag1": "R2",
+        "fag2": "IT2",
+        "fag3": "Fysikk 2"
+    },
+    {
+        "navn": "Martin Sørensen",
+        "epost": "martin.sorensen@gmail.com",
+        "telefon": 90123456,
+        "fag1": "R2",
+        "fag2": "IT2",
+        "fag3": "Fysikk 2"
+    },
+    {
+        "navn": "Nina Holm",
+        "epost": "nina.holm@gmail.com",
+        "telefon": 12345678,
+        "fag1": "R2",
+        "fag2": "IT2",
+        "fag3": "Fysikk 2"
+    }
+]

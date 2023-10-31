@@ -1,0 +1,242 @@
+[
+    {
+      "navn": "elev 1",
+      "epost": "elev1@gmail.com",
+      "telefon": 11111111,
+      "fag1": "R2",
+      "fag2": "IT2",
+      "fag3": "Fysikk 2"
+    },
+    {
+      "navn": "elev 2",
+      "epost": "elev2@gmail.com",
+      "telefon": 11111111,
+      "fag1": "R2",
+      "fag2": "IT2",
+      "fag3": "Fysikk 2"
+    },
+    {
+      "navn": "elev 3",
+      "epost": "elev3@gmail.com",
+      "telefon": 11111111,
+      "fag1": "R2",
+      "fag2": "IT2",
+      "fag3": "Fysikk 2"
+    },
+    {
+      "navn": "elev 4",
+      "epost": "elev4@gmail.com",
+      "telefon": 11111111,
+      "fag1": "R2",
+      "fag2": "IT2",
+      "fag3": "Fysikk 2"
+    },
+    {
+      "navn": "elev 5",
+      "epost": "elev5@gmail.com",
+      "telefon": 11111111,
+      "fag1": "R2",
+      "fag2": "IT2",
+      "fag3": "Fysikk 2"
+    },
+    {
+      "navn": "elev 6",
+      "epost": "elev6@gmail.com",
+      "telefon": 11111111,
+      "fag1": "R2",
+      "fag2": "IT2",
+      "fag3": "Fysikk 2"
+    },
+    {
+      "navn": "elev 7",
+      "epost": "elev7@gmail.com",
+      "telefon": 11111111,
+      "fag1": "R2",
+      "fag2": "økonomi",
+      "fag3": "psykologi"
+    },
+    {
+      "navn": "elev 8",
+      "epost": "elev8@gmail.com",
+      "telefon": 11111111,
+      "fag1": "R2",
+      "fag2": "økonomi",
+      "fag3": "psykologi"
+    },
+    {
+      "navn": "elev 9",
+      "epost": "elev9@gmail.com",
+      "telefon": 11111111,
+      "fag1": "R2",
+      "fag2": "økonomi",
+      "fag3": "psykologi"
+    },
+    {
+      "navn": "elev 10",
+      "epost": "elev10@gmail.com",
+      "telefon": 11111111,
+      "fag1": "rettslære",
+      "fag2": "økonomi",
+      "fag3": "psykologi"
+    },
+    {
+      "navn": "elev 11",
+      "epost": "elev11@gmail.com",
+      "telefon": 11111111,
+      "fag1": "rettslære",
+      "fag2": "økonomi",
+      "fag3": "psykologi"
+    },
+    {
+      "navn": "elev 12",
+      "epost": "elev12@gmail.com",
+      "telefon": 11111111,
+      "fag1": "rettslære",
+      "fag2": "økonomi",
+      "fag3": "psykologi"
+    },
+    {
+      "navn": "elev 13",
+      "epost": "elev13@gmail.com",
+      "telefon": 11111111,
+      "fag1": "rettslære",
+      "fag2": "økonomi",
+      "fag3": "psykologi"
+    },
+    {
+      "navn": "elev 14",
+      "epost": "elev14@gmail.com",
+      "telefon": 11111111,
+      "fag1": "rettslære",
+      "fag2": "økonomi",
+      "fag3": "sosiologi"
+    },
+    {
+      "navn": "elev 15",
+      "epost": "elev15@gmail.com",
+      "telefon": 11111111,
+      "fag1": "rettslære",
+      "fag2": "økonomi",
+      "fag3": "sosiologi"
+    },
+    {
+      "navn": "elev 16",
+      "epost": "elev16@gmail.com",
+      "telefon": 11111111,
+      "fag1": "rettslære",
+      "fag2": "Kjemi2",
+      "fag3": "sosiologi"
+    },
+    {
+      "navn": "elev 17",
+      "epost": "elev17@gmail.com",
+      "telefon": 11111111,
+      "fag1": "rettslære",
+      "fag2": "Kjemi2",
+      "fag3": "sosiologi"
+    },
+    {
+      "navn": "elev 18",
+      "epost": "elev18@gmail.com",
+      "telefon": 11111111,
+      "fag1": "rettslære",
+      "fag2": "Kjemi2",
+      "fag3": "Fysikk 2"
+    },
+    {
+      "navn": "elev 19",
+      "epost": "elev19@gmail.com",
+      "telefon": 11111111,
+      "fag1": "rettslære",
+      "fag2": "Kjemi2",
+      "fag3": "Fysikk 2"
+    },
+    {
+      "navn": "elev 20",
+      "epost": "elev20@gmail.com",
+      "telefon": 11111111,
+      "fag1": "S2",
+      "fag2": "Kjemi2",
+      "fag3": "Fysikk 2"
+    },
+    {
+      "navn": "elev 21",
+      "epost": "elev21@gmail.com",
+      "telefon": 11111111,
+      "fag1": "S2",
+      "fag2": "Kjemi2",
+      "fag3": "Fysikk 2"
+    },
+    {
+      "navn": "elev 22",
+      "epost": "elev22@gmail.com",
+      "telefon": 11111111,
+      "fag1": "S2",
+      "fag2": "Kjemi2",
+      "fag3": "Fysikk 2"
+    },
+    {
+      "navn": "elev 23",
+      "epost": "elev23@gmail.com",
+      "telefon": 11111111,
+      "fag1": "S2",
+      "fag2": "Kjemi2",
+      "fag3": "Fysikk 2"
+    },
+    {
+      "navn": "elev 24",
+      "epost": "elev24@gmail.com",
+      "telefon": 11111111,
+      "fag1": "S2",
+      "fag2": "IT2",
+      "fag3": "psykologi"
+    },
+    {
+      "navn": "elev 25",
+      "epost": "elev25@gmail.com",
+      "telefon": 11111111,
+      "fag1": "S2",
+      "fag2": "IT2",
+      "fag3": "psykologi"
+    },
+    {
+      "navn": "elev 26",
+      "epost": "elev25@gmail.com",
+      "telefon": 11111111,
+      "fag1": "S2",
+      "fag2": "IT2",
+      "fag3": "sosiologi"
+    },
+    {
+      "navn": "elev 27",
+      "epost": "elev25@gmail.com",
+      "telefon": 11111111,
+      "fag1": "S2",
+      "fag2": "IT2",
+      "fag3": "sosiologi"
+    },
+    {
+      "navn": "elev 28",
+      "epost": "elev25@gmail.com",
+      "telefon": 11111111,
+      "fag1": "S2",
+      "fag2": "IT2",
+      "fag3": "sosiologi"
+    },
+    {
+      "navn": "elev 29",
+      "epost": "elev25@gmail.com",
+      "telefon": 11111111,
+      "fag1": "S2",
+      "fag2": "IT2",
+      "fag3": "sosiologi"
+    },
+    {
+      "navn": "elev 30",
+      "epost": "elev25@gmail.com",
+      "telefon": 11111111,
+      "fag1": "S2",
+      "fag2": "IT2",
+      "fag3": "sosiologi"
+    }
+  ]
